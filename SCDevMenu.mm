@@ -2,7 +2,7 @@
 
 // Enable Developer Menu in SoundCloud App //
 
-
+// OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
 
 %hook FIRRemoteConfigSettings
 -(bool)isDeveloperModeEnabled {
